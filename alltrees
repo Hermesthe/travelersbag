@@ -1,0 +1,14 @@
+public class Trees{
+  public static void main(String[] args) {
+// this is very frustrating trying to get this text editor to work
+  System.out.println ("hey this is Hermes and yes this is my first committed project");
+  System.out.println ("ok so according to the Codecademy I need to plant some trees");
+  System.out.println ("cool I can do that");
+  System.out.println ("  *  ");
+  System.out.println (" *** ");
+  System.out.println ("*****");
+  System.out.println ("  *  ");
+
+}
+
+}
