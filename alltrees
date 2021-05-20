@@ -1,0 +1,9 @@
+public class Trees{
+  public static void main(String[] args) {
+// this is very frustrating trying to get this text editor to work
+  system.out.println("hey this is Hermes and yes this is my first committed project");
+  
+
+}
+
+}
